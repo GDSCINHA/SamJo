@@ -1,6 +1,6 @@
 # SamJo
 
-We are SamJO
+We are SamJo
 ============
 ## Team Introduction
 >
